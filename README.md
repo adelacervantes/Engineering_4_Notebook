@@ -35,4 +35,12 @@ This was by far the easiest assignment mostly because we have been making things
 #### Link to my code
 https://github.com/adelacervantes/Engineering_4_Notebook/blob/master/Python/dice%20rolllllll.py
 
+### Python Calculator
+
+#### Lessons Learned
+The calculator took a bit of thinking on my behalf. The objective of the project was to program the raspberry pi to be able to solve simple mathematic equations consisitng of addition, subtraction, multiplication, and division. I wasn't really sure how to go about approaching this assignment at first because I always assumed that calculators and the functionality behind calculators was too complex. As it turned out, as soon as I figured out what I was supposed to do it really wasn't that hard afterall.
+
+#### Link to my code
+https://github.com/adelacervantes/Engineering_4_Notebook/blob/master/Python/Python%20Calculator.py
+
 
