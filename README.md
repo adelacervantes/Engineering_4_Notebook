@@ -43,4 +43,10 @@ The calculator took a bit of thinking on my behalf. The objective of the project
 #### Link to my code
 https://github.com/adelacervantes/Engineering_4_Notebook/blob/master/Python/Python%20Calculator.py
 
+### Quadratic Equations Calculator
 
+#### Lessons Learned
+The objective of this assignment was to program a calculator on the Raspberry Pi using python. This calculator, contrary to normal calculators, is supposed to solve Quadratic equations. For starters I didn't even remember how to solve a quadratic equation on paper because I hadn't talked about it in math class for a little while. Once I did my bit of studying and refreshing my memory, I realized that they key to this assignment was the quadratic formula; or at least the way I chose to go about it. This was definitly one of the most difficult assignments coding wise at least just because at first for a while I didn't really know what to do. Eventually once I figured it all out it was pretty easy but it definitly took a bit of thinking.
+
+#### Link to my code
+https://github.com/adelacervantes/Engineering_4_Notebook/blob/master/Python/quadratic%20equations%20calculator.py
