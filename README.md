@@ -50,3 +50,19 @@ The objective of this assignment was to program a calculator on the Raspberry Pi
 
 #### Link to my code
 https://github.com/adelacervantes/Engineering_4_Notebook/blob/master/Python/quadratic%20equations%20calculator.py
+
+### Strings and Loops
+
+#### Lessons Learned
+The point of this assignment was to write a code with an interface that would tell a user to type something, a sentence, a words, anything; afterwords, the code would run the sentence and or word so that it would be reprinted vertically. Before this school year, I wasn't really familiar with strings and the concept of being able to enter and print out actual words using code so that part was a little tricky to figure out, although the assignments on canvas actually do have a lot of useful coding tips that can really help throw you in the right direction if you have no idea how to even begin to go about something. 
+
+#### Link to my code
+https://github.com/adelacervantes/Engineering_4_Notebook/blob/master/Python/Strings%20and%20Loops.py
+
+### Man Shaped Piñata
+
+#### Lessons Leanred
+The objective of this assignment was to make a virtual game of hangman. This assingment definitly took me the most amount of time (or at least in comparison to those that came before it.) We had to write a code that would allow a player to type in a word (the word would not show) and then another player would get to guess what the word was by typing in letters in the keyboard. Like a classic game of hangman, if the second player guessed the letter incorrectly a computerized person would begin to show onto the computer (surprisngly this wasn't the hardest part.) It didn't take me long at all to write this code, given it had a lot of mistakes but I got the basiscs done relatively quickly. If I learned one important thing from this assignment is that rushing through code is NEVER a good idea unless you intend to spend the next few days troubleshooting. For starters,I had a bunch of random syntax errors including indenting and capitilzations and just really dumb stuff that could have easily been avoided had I handled the code a little more carefully. Once I got the code to actually run I started noticing more errors. I really should have planned this one out more thouroughly before starting to type into the computer. At first I couldn't get the characters that were supposed to make up the person to show up, once I figured that out there was a lot of problems with the actual spaces that the letters were supposed to go on. My algorithms were completely randomized and the code was a hot mess. Eventually, like literally weeks later, I was able to solve all of the problems with my code and get it working. So yeah, don't rush into coding in attempt to get through assignments or tasks faster because it can REALLY delay the process. 
+
+#### Link to my code
+https://github.com/adelacervantes/Engineering_4_Notebook/blob/master/Python/MSP%20Challenge.py
