@@ -72,3 +72,19 @@ https://github.com/adelacervantes/Engineering_4_Notebook/blob/master/Python/MSP%
 #### Lessons Learned 
 This assignment required less programming then any of the assignments that came before it. For this assigment we had to solder, use breadboards, wire, and a bunch of other stuff I hadn't done since Engineering 3. I like coding, to me the idea of telling computers what to do is exciting and I enjoy figuring out how to do things to help me become a better programmer. On the other hand, it's not that I don't enjoy it, because I do, but I have a much more difficult time with things like soldering and WIRING and just hands on activities in general because I am shakey and clumsy and possibly the worst solder-er(?) I know. We had start off by soldering the Pi Zero to some headers, then we used those headers to attach a T-cobbler which was attached to a breadboard. Once that was finished we had to use those pins to tell LED lights what to do with different lightings, fades, and timings. Actually I found this part pretty simple because a lot of what Engineering 1-3 consisted of was playing around with LEDs and while they were completely different programs, I still had a relatively close idea on what I was supposed to do and how I was supposed to go about it.
 
+#### Link to my code 
+coming soon. 
+
+### GPIO Pins - Python
+
+#### Lessons learned
+The purpose of this assignment was to use the GPIO pins to get leds to blink using a python script instead of a bash script. Since there wasn't much specificity on how they had to blink, it didn't feel extremely complicated; Honestly I think for me personally the hardest part of the assignment was wiring the actual LEDS because up until the last assignment I hadn't done that in a good amount of time. 
+
+#### Link to my code
+coming soon. 
+
+### Hello Flask
+
+#### Lessons Learned
+In this assignment the goal was use what I had learned in the last assignment 
+
